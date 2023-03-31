@@ -1,0 +1,11 @@
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\bin\Debug\ChatServer.exe
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\bin\Debug\ChatServer.pdb
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\bin\Debug\Utilities.dll
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\bin\Debug\Utilities.pdb
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\obj\Debug\ChatServer.exe
+D:\Сетевое програмир\23.03.29\SimpleChat-main\ChatServer\obj\Debug\ChatServer.pdb
